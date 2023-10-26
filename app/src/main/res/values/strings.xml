@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">TMDB_Movies</string>
+
+    <string name="failed">Failed </string>
+
+</resources>
